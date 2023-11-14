@@ -4,9 +4,9 @@
 //#define CRYSTALLESS    1
 
 #define VENDOR_NAME "AxioLogix Technologies"
-#define PRODUCT_NAME "Rfm Usb V2"
+#define PRODUCT_NAME "Rfm-Usb"
 #define VOLUME_LABEL "RfmUsb"
-#define BOARD_ID "SAMD21E18A-rfmusb-v2"
+#define BOARD_ID "SAMD21E18A-rfmusb"
 
 #define USB_VID 0x04D8
 #define USB_PID 0x2402
