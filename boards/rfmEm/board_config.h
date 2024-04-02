@@ -3,10 +3,11 @@
 
 //#define CRYSTALLESS    1
 
-#define VENDOR_NAME "AxioLogix Technologies"
+#define VENDOR_NAME "AxioLogix Technologies Limited"
 #define PRODUCT_NAME "Rfm-Em"
 #define VOLUME_LABEL "RfmEm"
 #define BOARD_ID "SAMD21E18A-rfmem"
+#define INDEX_URL "https://axiologix-technologies.github.io/RfmEm/"
 
 #define USB_VID 0xDEAD
 #define USB_PID 0xFEED

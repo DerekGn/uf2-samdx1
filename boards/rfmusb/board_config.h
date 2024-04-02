@@ -3,11 +3,11 @@
 
 //#define CRYSTALLESS    1
 
-#define VENDOR_NAME "Alt Ltd"
+#define VENDOR_NAME "AxioLogix Technologies Limited"
 #define VOLUME_LABEL "RfmUsb"
 #define PRODUCT_NAME "Rfm-Usb"
 #define BOARD_ID "SAMD21E18A-rfmusb"
-#define INDEX_URL "https://derekgn.github.io/RfmUsb/"
+#define INDEX_URL "https://axiologix-technologies.github.io/RfmUsb/"
 
 #define USB_VID 0x04D8
 #define USB_PID 0x2402
